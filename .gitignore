@@ -55,3 +55,14 @@ Tests/obj/Debug/Tests.pdb
 *.pdb
 *.cache
 *.suo
+Tests/bin/Debug/ReferenceOutput/GoldenOutput-Seed-1.txt
+Tests/bin/Debug/ReferenceOutput/GoldenOutput-Seed-10.txt
+*.txt
+*.xml
+Tests/bin/Debug/TestResult.xml
+*.xml
+*.dll
+*.dll
+*.cache
+*.txt
+*.cache
