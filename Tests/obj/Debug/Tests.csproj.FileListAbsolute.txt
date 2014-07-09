@@ -1,0 +1,9 @@
+C:\Users\lyndsay.prewer\Documents\GitHub\Trivia-RefactoringKata\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Users\lyndsay.prewer\Documents\GitHub\Trivia-RefactoringKata\Tests\bin\Debug\Tests.dll
+C:\Users\lyndsay.prewer\Documents\GitHub\Trivia-RefactoringKata\Tests\bin\Debug\Tests.pdb
+C:\Users\lyndsay.prewer\Documents\GitHub\Trivia-RefactoringKata\Tests\bin\Debug\nunit.framework.dll
+C:\Users\lyndsay.prewer\Documents\GitHub\Trivia-RefactoringKata\Tests\bin\Debug\Trivia.exe
+C:\Users\lyndsay.prewer\Documents\GitHub\Trivia-RefactoringKata\Tests\bin\Debug\Trivia.pdb
+C:\Users\lyndsay.prewer\Documents\GitHub\Trivia-RefactoringKata\Tests\bin\Debug\nunit.framework.xml
+C:\Users\lyndsay.prewer\Documents\GitHub\Trivia-RefactoringKata\Tests\obj\Debug\Tests.dll
+C:\Users\lyndsay.prewer\Documents\GitHub\Trivia-RefactoringKata\Tests\obj\Debug\Tests.pdb
