@@ -54,3 +54,4 @@ Tests/obj/Debug/Tests.pdb
 *.exe
 *.pdb
 *.cache
+*.suo
