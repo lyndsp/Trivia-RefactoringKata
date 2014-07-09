@@ -46,3 +46,11 @@ Tests/bin/Debug/Tests.pdb
 Tests/bin/Debug/Trivia.pdb
 Tests/obj/Debug/Tests.csprojResolveAssemblyReference.cache
 Tests/obj/Debug/Tests.pdb
+*.xml
+*.xml
+*.xml
+*.dll
+*.pdb
+*.exe
+*.pdb
+*.cache
