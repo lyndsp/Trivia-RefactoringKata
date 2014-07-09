@@ -26,7 +26,8 @@ $RECYCLE.BIN/
 .LSOverride
 
 # Icon must ends with two \r.
-Icon
+Icon
+
 
 # Thumbnails
 ._*
@@ -37,3 +38,11 @@ Icon
 
 *.suo
 *.suo
+*.xml
+Tests/bin/Debug/Tests.dll
+Tests/bin/Debug/Tests.pdb
+Tests/bin/Debug/Trivia.exe
+Tests/bin/Debug/Tests.pdb
+Tests/bin/Debug/Trivia.pdb
+Tests/obj/Debug/Tests.csprojResolveAssemblyReference.cache
+Tests/obj/Debug/Tests.pdb
