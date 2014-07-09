@@ -1,4 +1,5 @@
 ﻿using NUnit.Framework;
+using System;
 
 namespace UglyTrivia
 {
@@ -32,6 +33,20 @@ namespace UglyTrivia
             game.add("player");
 
             Assert.That(game.howManyPlayers(), Is.EqualTo(2));
+        }
+
+        [Test]
+        public void MaximumOfSixPlayers()
+        {
+            var players = new int[5];
+            var game = new Game();
+
+            foreach (var p in players)
+            {
+                game.add(p.ToString());
+            }
+
+            Assert.Throws<IndexOutOfRangeException>(delegate { game.add("too many players"); });
         }
     }
 }
