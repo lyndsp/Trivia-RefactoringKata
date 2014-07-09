@@ -36,18 +36,6 @@ Icon
 .Spotlight-V100
 .Trashes
 
-*.suo
-*.suo
-*.xml
-Tests/bin/Debug/Tests.dll
-Tests/bin/Debug/Tests.pdb
-Tests/bin/Debug/Trivia.exe
-Tests/bin/Debug/Tests.pdb
-Tests/bin/Debug/Trivia.pdb
-Tests/obj/Debug/Tests.csprojResolveAssemblyReference.cache
-Tests/obj/Debug/Tests.pdb
-*.xml
-*.xml
 *.xml
 *.dll
 *.pdb
@@ -55,14 +43,7 @@ Tests/obj/Debug/Tests.pdb
 *.pdb
 *.cache
 *.suo
-Tests/bin/Debug/ReferenceOutput/GoldenOutput-Seed-1.txt
-Tests/bin/Debug/ReferenceOutput/GoldenOutput-Seed-10.txt
 *.txt
-*.xml
-Tests/bin/Debug/TestResult.xml
-*.xml
-*.dll
 *.dll
 *.cache
-*.txt
-*.cache
+*.user
